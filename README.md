@@ -1,2 +1,0 @@
-# PythonProjects
-Python Assignment Projects
